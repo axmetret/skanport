@@ -4,7 +4,7 @@
 #
 # light and simple port scanner in python.
 #
-# Pasha don't forget the password: R300sal0ignor
+# Pasha don't forget the password: 4dmin_of_GOD
 #
 #
 #
